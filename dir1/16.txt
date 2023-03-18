@@ -1,8 +1,0 @@
-git clone https://github.com/ian-knight-uofa/git-practice-02.git
-git checkout branch2
-git merge branch3
-git status # to see the files with conflicts
-git add <modified_files>
-git commit -m "Resolved merge conflicts"
-git branch -d branch3
-git push origin :branch3
