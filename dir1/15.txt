@@ -1,0 +1,7 @@
+git clone https://github.com/ian-knight-uofa/git-practice-01.git
+git fetch origin branch1
+git checkout main
+git merge origin/branch1
+git add <resolved files>
+git commit -m "Merge branch1 with main"
+git push origin main

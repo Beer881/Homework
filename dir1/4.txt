@@ -1,0 +1,3 @@
+git commit -m "commit message"
+#!/bin/bash
+git commit -m "commit message"
