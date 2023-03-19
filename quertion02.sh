@@ -1,1 +1,0 @@
-quertion02.sh
