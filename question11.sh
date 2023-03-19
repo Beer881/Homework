@@ -4,4 +4,5 @@ git add file4
 git commit -m "commit message"
 cat "new content" > file4
 git add file4
+git stash
 git checkout main
